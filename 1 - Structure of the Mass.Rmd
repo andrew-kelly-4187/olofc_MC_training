@@ -1,44 +1,110 @@
 ---
 title: "Structure of the Mass"
 author: "Andrew Kelly"
-date: "2023-10-25"
-output: 
-  html_document:
-    theme: cosmo
-    toc: true
-    toc_float: true
-    toc_depth: 2
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: rmdformats::material
+css: custom.css
 ---
 
-<style>
-.QuestionDiv {
-  background-color: #E0FEFF;
-}
+<!-- <iframe src="https://www.youtube.com/embed/6A5EpqqDOdk" data-external= "1" width = 100%> </iframe> -->
 
-.EndDiv {
-  text-align: center;
-  text-shadow: 2px 2px;
-  font-size: 40px;
-}
+# Introduction
 
-h1 {
-  font-size: 40px;
-  color:slateblue;
-}
+Whilst all servers should have an understanding of the flow of the Mass, the senior server should have an intimate knowledge of the structure of the Mass, if not also the scriptural origin for the elements of the Roman Rite.
 
-h2 {
-  font-size: 25px;
-  color:dodgerblue;
-}
-</style>
+## Prerequisites
+None
 
-# 1 Introduction
+## Objectives
+On completion of this module, the server will understand:
 
-Blah. Give the purpose of this file, how students are to use it, and the learning objectives
+* the purpose of the Mass;
+* the role of servers and masters of ceremonies (M.C.);
+* the liturgical Ordo;
+* the flow of a general Mass, including the preface and elements of the Eucharistic Prayer;
+* variations due to various feasts and solemnities, season, and day of the week;
+* some possible additions or changes to a Mass that are found infrequently;
 
-# 2 Section
+# Introduction to the Mass
 
-Blah, example of a section
+## The purpose of the Mass
+We come to Mass to offer sacrifice. This would seem to be a need of human nature. Wherever we find people believing in a God, we find them trying to express their worship in some ritual sacrifice: Assyrians and Babylonians, Egyptians, Greeks and Romans, Aztecs and Polynesians - all have been alive in this that they have tried to approach or placate their gods not just by words, but by offering them gifts in sacrifice, through a priest. Often  they try to give things they have no right to give, such as human life. Their expression of devotion might be revolting, but the idea behind it was understandable enough!
+
+It would seem that we as Catholics have a special need to offer sacrifice. By baptism we have been made members of Christ the Great High Priest - we share in His priesthood as St Peter reminds us: "You area chosen race, a royal priesthood". It is a function of a priest to offer sacrifice. We have been made members of another - social beings belonging to the Mystical Body. For us, private prayer is essential but not sufficient: we need some social, corporate act of worship to satisfy our natures.
+
+What service are we to give? In the Old Testament, God was obviously pleased with the ritual sacrifices of the Jews, and laid down the most detailed instructions for their accomplishment. These were all shadows of the reality that was to come, Christ's perfect sacrifice. He came to fulfill, not to destroy. He did not change our nature by wiping out our need to sacrifice, he instead change the nature of the gift that would be pleasing to God. The blood of calves or goats or lambs was no longer acceptable; the Lamb of God was himself the one pleasing Victim: "For you were sacrificed and did redeem to God through thy blood, men from every tribe and tongue and people and nation". We need to offer sacrifice and there is only one acceptable sacrifice: that of Christ offering Himself for the redemption of mankind, and dying as a Victim on the Cross. That was all-sufficient and nothing can be added to it. Somehow we have to offer *that*.
+
+But how? Have we missed our chance by being born too late? The Mass is God's wonderful devising whereby God stoops to our necessity. Each time Mass is said, Christ the Victim comes down onto our Altars, through the instrumentality of His priest, and offers Himself, slain on Calvary, to the Father. 
+
+## What do servers do at the Mass?
+The "ministers" or servers are those whose role is derived from that of the instituted acolyte. They assist and sit in the sanctuary. Their ceremonial duties are essential to good liturgy, however the proper exercise of their ministry at the altar depends on regular training and discipline, together with spiritual formation and encouragement. Their ceremonial duties are essential to good liturgy.
+
+Servers should remember that they serve God first, the priest second, and the congregation third. Firstly they exercise their baptismal priesthood in assisting the priest in his ministerial priesthood, to give glory to God. A priest acts as the bridge between Heaven and Earth, and the service of the server also assists the congregation connect to the invisible realities, aided by the visible signs and symbols, through pious and reverent assistance, making the worship more sacred.
+
+## What is a "Master of Ceremonies"?
+Not only every diocese but each parish should have a trained master of ceremonies (M.C.). They must know the laws and details of ceremonial and the history and traditions of the Roman Rite. They should study the sources and be familiar with liturgical texts. But they should also be "well-versed in pastoral science", so as to plan celebrations "in a way that encourages fruitful participation by the people and enhances the beauty of the rites".
+
+Whether priest, deacon or layperson, they should gain the confidence of the clergy, who then will welcome his services and accept his directions cheerfully during celebrations. They work closely with musicians, servers and clergy, and especially with the sacristans before and after each celebration. However they must be assured of authority over ministers during, before and after a celebration. In a complicated ceremony, such as an ordination, two or more M.C.s are useful. Therefore, it is appropriate to have assistant masters of ceremonies in training for this skilled work.
+
+A good M.C. is unobtrusive, calm and dignified. They move without haste. They have great freedom of movement so as to attend to all details, but they never abuse this freedom by distracting behavior during readings or sacred actions. They directs discreetly, without obvious gestures or comments, nor do they take the place of the deacon beside the celebrant. If they have to discipline misbehavior, they act with restraint, at least while walking in procession or working in the sanctuary.
+
+They must know what everyone is supposed to do and where all are meant to be at each moment of the liturgy. Therefore, much of their skill depends on the ability to see ahead:
+
+* they must be aware of variations in the ceremonial or text of a particular celebration;
+* they must know exactly what happens next, anticipating the movements of servers so that they are prompt with the book, incense, etc.;
+* they should be a person who can keep fine details in his mind while being aware of the "shape" and unity of a liturgical celebration.
+
+The M.C. may wear an alb, but choir dress (cassock and cotta) may seem preferable, to distinguish them from servers. A priest or deacon acting as the M.C. wears a stole only when receiving Communion or during duty at the tabernacle.
+
+# The parts of a Mass
+
+
+# The Liturgical Ordo
+Whilst the Mass always includes a sacrifice, the actual details of the structure can vary, as can the intention of the Mass. How do we know what celebration we should prepare for, or whether the Mass will contain the Gloria or Creed?
+
+This is all included in what is called the "Liturgical Ordo": the calendar of celebrations. This includes:
+
+* the date;
+* the celebration of the day;
+* the rank of the celebration.
+
+A good version of this is online: <a href = "https://www.liturgyoffice.org.uk/Calendar/2023/Oct.shtml">Here is the Liturgical Ordo for October 2023</a>
+
+Here is an excerpt from the Ordo for October 2023, for England and Wales. We observe that each day can have multiple saints mentioned, and sometimes these saints are to be celebrated as a "memorial", and other times nothing is mentioned. What gives?
+
+```{r echo = FALSE}
+ordo_oct <- data.frame(
+  Day = c("Sunday","Monday","Tuesday","Wednesday","Thursday","","Friday","","Saturday","Sunday","Monday","Tuesday","","",""),
+  Date = c("1","2","3","4","5","","6","","7","8","9","10","","",""),
+  Celebration = c("26th Sunday in Ordinary Time","The Holy Guardian Angels","Weekday in Ordinary Time","St Francis of Assisi","Weekday in Ordinary Time","or St Faustina Kowalska, Virgin","Weekday in Ordinary Time","or St Bruno, Priest","Our Lady of the Rosary","27th Sunday in Ordinary Time","St John Henry Newman (EW)","Weekday in Ordinary Time","or St Paulinus of York, Bishop (E),","Ss Denis, Bishop, and his Companions, Martyrs;","St John Leonardi, Priest"),
+  Rank = c("Week II","memorial","","memorial","","","","","memorial","Week III","feast","","","",""))
+knitr::kable(ordo_oct, "pipe")
+```
+
+## Solemnities, Feasts, Memorials and Weekdays
+When preparing for a Mass we need to know the "rank". This tells us what is going to be included in the Mass. Full details for those interested is given in the <a href="https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf">Universal Norms on the Liturgical Year and the General Roman Calendar</a>, but these are summarised below:
+
+### Solemnity
+This is the highest rank of a Mass, celebrating a mystery of faith such as the Trinity, an event in the life of Jesus, his mother Mary, his earthly father Joseph, or another important saint. The observance actually begins with the vigil on the evening before the actual date of the feast.
+
+Every Sunday is a solemnity, but some other notable ones are Christmas, the Epiphany, the Ascension, Corpus Christi, January 1 (Mother of God), the Assumption, the Immaculate Conception, St. Joseph, SS. Peter and Paul and All Saints.
+
+Some, but not all of these are **Holy days of obligation**. Some of these also move around the Calendar and are placed at the closest Sunday. <a href="https://www.liturgyoffice.org.uk/Calendar/index.shtml#Summary">This is a table of movable feasts and holy days of obligation up to 2026</a>.
+
+If a Solemnity falls on a Friday, then this supercedes the tradition of fasting and abstinence. We don't fast during a celebration!
+
+### Feast
+Put simply, a feast day is any day when we remember and celebrate something or someone important to our faith. The word feast comes from the Latin *festes*, meaning 'joy' and symbolises a time of celebration. They often correspond to an important saint for this particular country or the Church, but other times are in commemoration of the sacred mysteries and events recorded in the history of our redemption, for example the Baptism of our Lord, The Conversion of St Paul, and The Visitation of the Blessed Virgin Mary.
+
+Unlike a solemnity, the feast day does not start with the vigil (the day before).
+
+Why are some days and events solemnities, and others feasts? It's just tradition. It's a way of classifying them by importance or significance.
+
+
+
+
+
+
 
 ## Subsection
 
