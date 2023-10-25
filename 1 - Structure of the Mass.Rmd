@@ -1,0 +1,77 @@
+---
+title: "Structure of the Mass"
+author: "Andrew Kelly"
+date: "2023-10-25"
+output: 
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    toc_depth: 2
+---
+
+<style>
+.QuestionDiv {
+  background-color: #E0FEFF;
+}
+
+.EndDiv {
+  text-align: center;
+  text-shadow: 2px 2px;
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 40px;
+  color:slateblue;
+}
+
+h2 {
+  font-size: 25px;
+  color:dodgerblue;
+}
+</style>
+
+# 1 Introduction
+
+Blah. Give the purpose of this file, how students are to use it, and the learning objectives
+
+# 2 Section
+
+Blah, example of a section
+
+## Subsection
+
+Blah, example of a subsection
+
+<div class="QuestionDiv">
+
+---
+
+### {- .tabset .tabset-pills .tabset-fade }
+
+#### Question
+
+Example of a question
+
+#### Answer
+
+Example of an answer
+
+### {-}
+
+---
+
+</div>
+
+
+<div class="EndDiv">
+Worksheet complete!
+</div>
+
+
+
+
+
+
+
