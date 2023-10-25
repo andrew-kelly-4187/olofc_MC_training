@@ -1,13 +1,15 @@
 body {
-  font-family: Segoe UI, Sans-serif;
+  font-family: "Segoe UI", sans-serif;
   color: #000000;
 }
 
 .header-panel {
+  font-family: "Segoe UI Semibold", sans-serif;
   background-color: #E40019;
 }
 
 .pages h1 {
+  font-family: "Segoe UI Semibold", sans-serif;
   color: #E40019;
 }
 
@@ -19,3 +21,13 @@ body {
   text-align: center;
   font-size: 40px;
 }
+
+    .nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+        color: black;
+        background-color: #fcd900;
+    }
+
+        .nav-pills > li.active > a:hover {
+            background-color: #efcb00;
+            color:black;
+        }
