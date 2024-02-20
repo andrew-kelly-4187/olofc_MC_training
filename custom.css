@@ -5,16 +5,16 @@ body {
 
 .header-panel {
   font-family: "Segoe UI Semibold", sans-serif;
-  background-color: #E40019;
+  background-color: #496ecc;
 }
 
 .pages h1 {
   font-family: "Segoe UI Semibold", sans-serif;
-  color: #E40019;
+  color: #496ecc;
 }
 
 .QuestionDiv {
-  background-color: #fff5f5;
+  background-color: #f0f3fc;
 }
 
 .EndDiv {
@@ -23,11 +23,11 @@ body {
 }
 
     .nav-pills > li.active > a, .nav-pills > li.active > a:focus {
-        color: black;
-        background-color: #fcd900;
+        color: white;
+        background-color: #3a496e;
     }
 
         .nav-pills > li.active > a:hover {
-            background-color: #efcb00;
-            color:black;
+            background-color: #3a496e;
+            color: white;
         }
